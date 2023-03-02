@@ -1,0 +1,57 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Week8",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Power-link",
+			"shaggy",
+			[
+				209,
+				26,
+				26
+			]
+			[
+			"unstoppable",
+			"shaggy",
+			[
+				209,
+				26,
+				26
+			]
+		],
+		[
+			"Revenge",
+			"matt",
+			[
+				51,
+				137,
+				255
+			]
+		],
+		[
+			"Final-destination",
+			"shaggy-matt",
+			[
+				138,
+				43,
+				226
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week8"
+}
